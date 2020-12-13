@@ -11,10 +11,6 @@ export const GlobalStyle = createGlobalStyle`
   }
 `;
 
-export const Container = styled.div`
-  text-align: center;
-`;
-
 export const Layout = styled.div`
   display: flex;
   justify-content: center;
