@@ -8,7 +8,9 @@
   },
   "dependencies": {
     "next": "9.5.5",
+    "prop-types": "^15.7.2",
     "react": "16.14.0",
-    "react-dom": "16.14.0"
+    "react-dom": "16.14.0",
+    "styled-components": "^5.2.1"
   }
 }
