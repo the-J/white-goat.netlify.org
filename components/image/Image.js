@@ -5,13 +5,13 @@ import styled from 'styled-components'
 const ImageWrapper = styled.div`
   display: flex;
   justify-content: center;
-  align-content: center;
+  //align-content: center;
+  //align-items: center;
   width: 100%;
 `
 
 const ImageComponent = styled.img`
-  display: flex;
-  //width: 80%;
+  height: auto;
   max-width: 200px;
   margin: 0 auto;
 `

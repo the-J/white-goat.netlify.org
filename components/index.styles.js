@@ -6,6 +6,7 @@ export const GlobalStyle = createGlobalStyle`
     src: url("../public/fonts/whitneysemibold.woff");
   }
   
+  html,
   body {
     font-family: 'Whitney', sans-serif;
   }
