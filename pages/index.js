@@ -23,9 +23,9 @@ const Home = () => (
 
               <ListWrapper>
                   <ol>
-                      <li>W zabawie bierze udział kto chce.</li>
+                      <li>W zabawie bierze udział kto chce i ma dostęp do @master.</li>
                       <li>Podjęcie uczestnictwa zobowiązuje do partycypowania.</li>
-                      <li>Celem wzięcia udziału w konkursie trzeba wyrazić chęć na kanale @master. (oddać głos w ankiecie).</li>
+                      <li>Celem wzięcia udziału w konkursie trzeba wyrazić chęć na kanale @el-konkurso. (oddać głos w ankiecie).</li>
                   </ol>
               </ListWrapper>
 
@@ -34,7 +34,7 @@ const Home = () => (
               <ListWrapper>
                   <ol>
                       <li>W trakcie trwania zabawy (od środy 16.12 do piątku 18.12 do północy)<br/>
-                          masz za zadanie opublikować minimum 5 samojebek na kanale master</li>
+                          masz za zadanie opublikować minimum 5 samojebek na kanale @el-konkurso</li>
                       <li>Celem przy Tworzeniu samojebki jest wykonanie najlepszego zdjęcia siebie w tym roku.<br/>
                           Powinieneś być z niego zadowolony i dumny. Crossy między uczestnikami są dozwolone,<br/>
                           jednakże zdjęcie przypisane jest do konta osoby publikującej.</li>
