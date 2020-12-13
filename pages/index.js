@@ -1,6 +1,6 @@
 import React from 'react'
 import Head from 'next/head'
-import {Container, GlobalStyle, Layout} from "./index.styles";
+import {Container, GlobalStyle, Layout} from "../components/index.styles";
 
 const Home = () => (
   <>
