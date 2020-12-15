@@ -54,6 +54,8 @@ const Home = () => (
                           (lub zostanie przesłana do najbliższego dla zwycięzcy paczkomatu bo zimno jest)</p>
                   <Image src="/koziol.png" />
                   <p>Plus niespodzianka.</p>
+
+                  <p>PS.: Za udział w wydarzeniu przewidziana jest nagroda 'za partycypację' dla każdego z uczestników.</p>
               </ListWrapper>
         </ContentWrapper>
       </Layout>
